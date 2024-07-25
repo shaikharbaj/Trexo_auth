@@ -1,0 +1,13 @@
+1) Command to generate new module in specific path
+Command :- nest generate resource ./modules/auth
+
+2) Microservice Package for nestJS
+Command :- npm i --save @nestjs/microservices
+URL :- https://docs.nestjs.com/microservices/basics
+
+3) Package for dot env Package
+Command :- npm i dotenv
+
+4) Package for jwt
+Command :- npm install --save @nestjs/jwt
+Reference URL :- https://docs.nestjs.com/security/authentication#creating-an-authentication-module
